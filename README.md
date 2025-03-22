@@ -98,8 +98,8 @@ plt.show()
 
 
 ## Result
-1.The original continuous message signal was successfully modulated using a pulse train.
-2.The natural sampling process was performed, multiplying the message signal with a pulse train.
-3.The sampled points were interpolated using a Zero-Order Hold technique.
-4.A low-pass filter was applied for smoother reconstruction, closely approximating the original message signal.
+- The original continuous message signal was successfully modulated using a pulse train.
+- The natural sampling process was performed, multiplying the message signal with a pulse train.
+- The sampled points were interpolated using a Zero-Order Hold technique.
+- A low-pass filter was applied for smoother reconstruction, closely approximating the original message signal.
 
